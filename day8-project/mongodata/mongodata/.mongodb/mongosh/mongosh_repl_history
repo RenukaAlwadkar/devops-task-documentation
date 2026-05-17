@@ -1,0 +1,6 @@
+db.users.find()
+use mydatabase
+exit
+db.users.find()
+db.users.insertOne({ name: "Renuka", role: "DevOps Student" })
+use mydatabase
